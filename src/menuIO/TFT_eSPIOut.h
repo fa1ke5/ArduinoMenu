@@ -22,7 +22,7 @@ www.r-site.net
 // TFT_eSPI gfx = TFT_eSPI();
 // #include <menu.h>
 // #include <menuIO/TFT_eSPIOut.h>
-// TTFT_eSPI gfx = TFT_eSPI();
+// TFT_eSPI gfx = TFT_eSPI();
 
 namespace Menu {
 
